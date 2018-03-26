@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialShowcaseViewCore", "MaterialShowcaseViewCore\MaterialShowcaseViewCore.csproj", "{8627ECAD-B9EA-40B5-BF79-816FC13C3D90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialShowcaseViewTest", "MaterialShowcaseViewTest\MaterialShowcaseViewTest.csproj", "{32D771BC-4D18-4806-B4DC-A129F16A5118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8627ECAD-B9EA-40B5-BF79-816FC13C3D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8627ECAD-B9EA-40B5-BF79-816FC13C3D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8627ECAD-B9EA-40B5-BF79-816FC13C3D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8627ECAD-B9EA-40B5-BF79-816FC13C3D90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D771BC-4D18-4806-B4DC-A129F16A5118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D771BC-4D18-4806-B4DC-A129F16A5118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D771BC-4D18-4806-B4DC-A129F16A5118}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{32D771BC-4D18-4806-B4DC-A129F16A5118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D771BC-4D18-4806-B4DC-A129F16A5118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D771BC-4D18-4806-B4DC-A129F16A5118}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {612FC14F-7EBD-43CD-AF92-E927ACC79B0D}
+	EndGlobalSection
+EndGlobal
